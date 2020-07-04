@@ -119,7 +119,7 @@ ul li a:hover{
 	left:85px;
 	border: 1px solid orange;
 	background-color: orange;
-	padding:1px 490px 1px 480px;
+	padding:1px 480px 1px 480px;
 }
 @media screen and (max-width:700px)
 {
