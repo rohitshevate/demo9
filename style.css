@@ -38,15 +38,15 @@ ul li a:hover{
 
 #title h1{
 	/*border: 1px solid white;*/
-	font-size: 75px;
+	font-size: 130px;
 	/*padding:30px 180px 30px 180px;*/
 	background-color: bisque;
 	/*width:400px;*/
 	font-style: italic;
 	color: indigo;
 	position:absolute;
-	left:201px;
-	top:-42px;
+	left:205px;
+	top:-80px;
 
 	
 }
