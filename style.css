@@ -4,9 +4,9 @@
 }
 .rel{
 	position:relative;
-	width:1400px;
+	width:1360px;
 	height:645px;
-	background-color: white;
+	background-color: bisque;
 }
 ul{
 	background-color: orange;
@@ -40,7 +40,7 @@ ul li a:hover{
 	/*border: 1px solid white;*/
 	font-size: 130px;
 	/*padding:30px 180px 30px 180px;*/
-	background-color: bisque;
+	/*background-color: bisque;*/
 	/*width:400px;*/
 	font-style: italic;
 	color: indigo;
