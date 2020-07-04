@@ -120,4 +120,8 @@ ul li a:hover{
 	background-color: orange;
 	padding:1px 600px 1px 550px;
 }
-
+@media screen and (max-width:700px)
+{
+	#title{
+		background-color: none;
+}
