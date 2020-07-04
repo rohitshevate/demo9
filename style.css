@@ -38,7 +38,7 @@ ul li a:hover{
 
 #title h1{
 	/*border: 1px solid white;*/
-	font-size: 130px;
+	font-size: 100px;
 	/*padding:30px 180px 30px 180px;*/
 	/*background-color: bisque;*/
 	/*width:400px;*/
@@ -46,7 +46,7 @@ ul li a:hover{
 	color: indigo;
 	position:absolute;
 	left:205px;
-	top:-80px;
+	top:-50px;
 
 	
 }
@@ -116,9 +116,10 @@ ul li a:hover{
 #footer p{
 	position:absolute;
 	bottom:0px;
+	left:100px;
 	border: 1px solid orange;
 	background-color: orange;
-	padding:1px 600px 1px 550px;
+	padding:1px 500px 1px 450px;
 }
 @media screen and (max-width:700px)
 {
