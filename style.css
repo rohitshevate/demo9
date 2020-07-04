@@ -37,9 +37,9 @@ ul li a:hover{
 }
 
 #title h1{
-	border: 1px solid white;
+	/*border: 1px solid white;*/
 	font-size: 75px;
-	padding:30px 180px 30px 180px;
+	/*padding:30px 180px 30px 180px;*/
 	background-color: bisque;
 	/*width:400px;*/
 	font-style: italic;
